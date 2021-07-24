@@ -8,3 +8,9 @@ in ML parameters: y = θ1 + θ2x
 -When training the model – it fits the best line to predict the value of y for a given value of x. The model gets the best regression fit line by finding the best θ1 and θ2 values.
 --θ1: intercept
 --θ2: coefficient of x
+
+residual = diffeence between actual value and fitted value
+-> to be squared to get only positive number
+-> get sum of squared residuals "Residual Sum of Squares" = number that linea regrassion is trying to minimize (to find the best possible fit for the regression)
+
+Goodness of Fit (r^2) = Model accuracy
