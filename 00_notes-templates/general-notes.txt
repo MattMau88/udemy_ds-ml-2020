@@ -14,3 +14,32 @@ residual = diffeence between actual value and fitted value
 -> get sum of squared residuals "Residual Sum of Squares" = number that linea regrassion is trying to minimize (to find the best possible fit for the regression)
 
 Goodness of Fit (r^2) = Model accuracy
+
+WORKING WITH ANACONDA & CONDA
+1) Anaconda: Anaconda is a distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment
+-> good for individual use
+2) Conda: Conda is an open source package management system and environment management system
+
+"conda activate" to activate base env
+-> see more details in conda cheat sheet
+only when env is activated, you can lauch "anaconda-navigator" from terminal or directly 
+start up jupyter notebook form terminal "jupyter terminal"
+"crtl+c" in to close and shut down jupyter notebook
+"conda deactivate" to deactivate current env
+
+
+INTRO TO PYTHON
+list = can hold items of different types
+array = can only hold variables of the same types
+pandas.DataFrame = a 2-dimensional labeled data structure with columns of potentially different types.
+series = one single column
+
+parameter: the variable/placeholder used when defining a function
+argument: the input/value passed to function when it is called 
+
+objects in python =  attributes (->state of objects, that can be changed) & methods(-> behavior of objects)
+
+DATA VISUALISATION
+tell jupyter to export chart when downloading notebook: "%matplotlib inline"
+Matplotlib styling: "plt.style.use('classic')" -> see styling options: https://tonysyu.github.io/raw_content/matplotlib-style-gallery/gallery.html
+
