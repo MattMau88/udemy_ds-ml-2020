@@ -11,7 +11,7 @@ in ML parameters: y = θ1 + θ2x
 
 residual = diffeence between actual value and fitted value
 -> to be squared to get only positive number
--> get sum of squared residuals "Residual Sum of Squares" = number that linea regrassion is trying to minimize (to find the best possible fit for the regression)
+-> get sum of squared residuals "Residual Sum of Squares" = number that linear regrassion is trying to minimize (to find the best possible fit for the regression)
 
 Goodness of Fit (r^2) = Model accuracy
 
@@ -43,3 +43,17 @@ DATA VISUALISATION
 tell jupyter to export chart when downloading notebook: "%matplotlib inline"
 Matplotlib styling: "plt.style.use('classic')" -> see styling options: https://tonysyu.github.io/raw_content/matplotlib-style-gallery/gallery.html
 
+STEPS in ML
+1) predict
+2) calculate error
+3) learn
+
+Cost function = loss function = error function = objective function
+
+
+Latex markdown
+# Heading 1
+## Heading 2
+$math formular$
+
+GRADIENT DESCENT ALGORYTHM = algorythm that finds the lowest cost
