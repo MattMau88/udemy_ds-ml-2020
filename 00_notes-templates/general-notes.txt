@@ -39,6 +39,8 @@ argument: the input/value passed to function when it is called
 
 objects in python =  attributes (->state of objects, that can be changed) & methods(-> behavior of objects)
 
+tuples = a data structure in python used to store multiple items in a single variable. a collection which is ordered and unchangeable
+
 DATA VISUALISATION
 tell jupyter to export chart when downloading notebook: "%matplotlib inline"
 Matplotlib styling: "plt.style.use('classic')" -> see styling options: https://tonysyu.github.io/raw_content/matplotlib-style-gallery/gallery.html
@@ -57,3 +59,4 @@ Latex markdown
 $math formular$
 
 GRADIENT DESCENT ALGORYTHM = algorythm that finds the lowest cost
+
