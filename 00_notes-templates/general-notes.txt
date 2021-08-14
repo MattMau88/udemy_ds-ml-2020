@@ -60,3 +60,11 @@ $math formular$
 
 GRADIENT DESCENT ALGORYTHM = algorythm that finds the lowest cost
 
+Python Dictionaries = a collection which is ordered*, changeable and does not allow duplicates
+-> used to store data values in key:value pairs
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+
