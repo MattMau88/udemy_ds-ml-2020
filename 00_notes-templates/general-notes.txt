@@ -68,3 +68,5 @@ thisdict = {
   "year": 1964
 }
 
+MULTICOLLINEARITY
+Multicollinearity exists whenever an independent variable is highly correlated with one or more of the other independent variables in a multiple regression equation. Multicollinearity is a problem because it undermines the statistical significance of an independent variable.
