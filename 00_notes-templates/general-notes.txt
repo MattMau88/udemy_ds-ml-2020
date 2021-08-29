@@ -70,3 +70,8 @@ thisdict = {
 
 MULTICOLLINEARITY
 Multicollinearity exists whenever an independent variable is highly correlated with one or more of the other independent variables in a multiple regression equation. Multicollinearity is a problem because it undermines the statistical significance of an independent variable.
+
+Bayesian Information Criterion (BIC) 
+Way to measure complextixity. Allows to compare between models.
+In statistics, the Bayesian information criterion or Schwarz information criterion is a criterion for model selection among a finite set of models; the model with the lowest BIC is preferred. It is based, in part, on the likelihood function and it is closely related to the Akaike information criterion.
+
