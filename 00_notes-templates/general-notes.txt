@@ -9,9 +9,22 @@ in ML parameters: y = θ1 + θ2x
 --θ1: intercept
 --θ2: coefficient of x
 
-residual = diffeence between actual value and fitted value
+RESIDUALS
+residual = difference between actual value and fitted value
+        = difference between target value and predicted value
 -> to be squared to get only positive number
 -> get sum of squared residuals "Residual Sum of Squares" = number that linear regrassion is trying to minimize (to find the best possible fit for the regression)
+- used to check if assumptions hold and model is valid
+- residulas should be random (i.e. no pattern)
+- residuals should be normally distributed 
+- relative measure of fit
+
+MEAN SQUARED ERROR (MSE)
+- absolute measure of fit
+
+ROOT MEAN SQUARED ERROR (RMSE)
+= one standard deviation in the distribution of residuals
+
 
 Goodness of Fit (r^2) = Model accuracy
 
