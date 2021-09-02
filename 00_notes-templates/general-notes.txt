@@ -24,7 +24,8 @@ MEAN SQUARED ERROR (MSE)
 
 ROOT MEAN SQUARED ERROR (RMSE)
 = one standard deviation in the distribution of residuals
-
+- used to assess the predictive power of a model and to compare models
+- measure of how accurately a model predicts the target
 
 Goodness of Fit (r^2) = Model accuracy
 
