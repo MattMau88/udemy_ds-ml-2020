@@ -89,3 +89,6 @@ Bayesian Information Criterion (BIC)
 Way to measure complextixity. Allows to compare between models.
 In statistics, the Bayesian information criterion or Schwarz information criterion is a criterion for model selection among a finite set of models; the model with the lowest BIC is preferred. It is based, in part, on the likelihood function and it is closely related to the Akaike information criterion.
 
+
+CORPUS = set of documents
+DOCUMENT (in case of Email Spam use case) = one email file
