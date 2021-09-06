@@ -92,3 +92,12 @@ In statistics, the Bayesian information criterion or Schwarz information criteri
 
 CORPUS = set of documents
 DOCUMENT (in case of Email Spam use case) = one email file
+
+NAIVE BAYES CLASSIFIER
+- compares two probabilities
+- decision boundary = probabilities are equal
+- "Naive" -> assumes independence between probabilities
+
+Bag of words approach =
+- each word is looked at in isolation
+- the frequency of of each word becomes a feature in our model

@@ -1,6 +1,6 @@
 Business problem: Email SPAM filter
 
-ML problem statemente: 
-1) take the raw email and pre-process the text data
+ML problem statement: 
+1) take raw email and pre-process the text data
 2) train a ml model that classifies the email as either spam or not-spam
 3) test the model's performance
